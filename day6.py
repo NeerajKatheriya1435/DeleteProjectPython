@@ -64,8 +64,8 @@
 # print(t1.count(2))
 # print(t1.index(4))
 
-name="Rohan"
-age=67
+# name="Rohan"
+# age=67
 
 # str1="My name is {1} and age is {0} dfgvdfv"
 # print(str1.format(name,age))
