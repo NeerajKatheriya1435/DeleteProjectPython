@@ -80,7 +80,7 @@
 # d1.update(d2)
 # print(d1)
 
-# age=45
+# age=-45
 
 # if (age<0 or age>120):
 #     raise ValueError("Age is not Possible")
@@ -91,3 +91,24 @@
 #     print("You can not drive")
 
 # print("Adult") if age>18 else print("Minor")
+
+# l1=[4,5,6,7,8]
+
+# for i in range(len(l1)):
+#     print(i,l1[i])
+
+# for key,value in enumerate(l1,start=5):
+#     print(key,value)
+
+import math
+
+# print(math.sqrt(25))
+# print(math.cbrt(125))
+
+# print(math.ceil(4.7))
+# print(math.floor(4.7))
+
+# print(math.pi)
+# print(dir(math))
+
+# print(math.log10(1000))
